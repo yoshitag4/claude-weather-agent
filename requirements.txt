@@ -1,0 +1,7 @@
+tzdata
+anthropic
+python-dotenv
+requests
+fastapi
+uvicorn[standard]
+pydantic
